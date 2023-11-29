@@ -1,0 +1,12 @@
+lib
+dist
+node_modules
+.DS_Store
+.env
+
+temp/
+!.gitkeep
+
+docker-compose.local.yml
+.vscode/settings.json
+.vscode/settings.json
